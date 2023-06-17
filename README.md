@@ -1,2 +1,2 @@
-## This is my Java-Study Note, which is based on "Core Java" 12e by Horstmann.
+## This is my Java-Study Note, which is based on "Core Java" 12e by Cay S.Horstmann.
 ## This Note will continuously updating ...
